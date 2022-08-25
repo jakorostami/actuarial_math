@@ -5,8 +5,13 @@ Since statistics and probability theory is heavily used in actuarial mathematics
 
 Therefore, this repo is intended to demonstrate that a Statistician can work with Actuaries and understand their work :)
 
-- [Creating a hedging strategy for derivative security with analytical solution in Python](https://github.com/jakorostami/actuarial_math/blob/main/python_notebooks/derivative_security_hedging.ipynb)
-- [Computing annuity due and spot rates in R](https://github.com/jakorostami/actuarial_math/blob/main/spot_rates_annuity_due.R)
+
+### Python
+- [Creating a hedging strategy for derivative security with analytical solution](https://github.com/jakorostami/actuarial_math/blob/main/python_notebooks/derivative_security_hedging.ipynb)
+
+
+### R
+- [Computing annuity due and spot rates](https://github.com/jakorostami/actuarial_math/blob/main/spot_rates_annuity_due.R)
 
 
 ![image-23](https://user-images.githubusercontent.com/51382407/185756418-867d7de7-13e0-4659-80bc-4aaa34e57e68.png)
